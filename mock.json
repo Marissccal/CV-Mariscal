@@ -1,0 +1,41 @@
+{
+  "formSettings": {
+    "jobTitle": "Blockchain Enginner",
+    "name": "Hernan",
+    "lastName": "Abeldaño",
+    "email": "explotacionesalfa@gmail.com",
+    "location": "Mendoza, Argentina",
+    "phoneNumber": "+54 2604678116",
+    "aboutme": "Mariscal",
+    "jobSkills": ["Nuxt.js"],
+    "softSkills": ["Teamwork"],
+    "languages": [
+      { "lang": "Spanish", "level": "100%" },
+      { "lang": "English", "level": "80%" },
+      { "lang": "Japanese", "level": "20%" }
+    ],
+    "linkedin": "hernan-abelda%C3%B1o/",
+    "twitter": "Her_DevSolidity",
+    "github": "Marissccal",
+    "education": [
+      {
+        "title": "Ingeniero Civil",
+        "location": "Argentina",
+        "from": "Mon Dec 07 2020 15:52:28 GMT+0100 (Central European Standard Time)",
+        "to": "Mon Dec 07 2020 15:52:28 GMT+0100 (Central European Standard Time)",
+        "current": "false",
+        "summary": "Erasmus internship at University of Birmingham for 9 months in my final year."
+      }
+    ],
+    "work": [
+      {
+        "title": "Blockchain Enginner",
+        "location": "Mendoza, Argentina",
+        "from": "Mon Dec 07 2020 15:52:28 GMT+0100 (Central European Standard Time)",
+        "to": "Mon Dec 07 2020 15:52:28 GMT+0100 (Central European Standard Time)",
+        "current": "false",
+        "summary": "Erasmus internship at University of Birmingham for 9 months in my final year."
+      }
+    ]
+  }
+}
